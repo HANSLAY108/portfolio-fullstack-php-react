@@ -1,6 +1,6 @@
 # Portfolio Fullstack (PHP + React)
 
-A full-stack portfolio website built with **React** on the frontend and **PHP (PDO)** on the backend.  
+A full-stack portfolio website built with **React** on the frontend and PHP (PDO) on the backend.  
 It includes a custom CMS to easily manage portfolio content.
 
 Features
@@ -14,5 +14,5 @@ Features
 - React
 - PHP (PDO)
 - MySQL
-- TailwindCSS (or CSS framework used)
-- Vite (if you used it for React build)
+- TailwindCSS 
+- Vite 
